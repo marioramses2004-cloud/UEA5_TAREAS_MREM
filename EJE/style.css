@@ -1,0 +1,22 @@
+body
+{
+    background-image: url("assets/fondo5.jpg");
+
+color:#00ff00;
+font-size: 40px;}
+h1{
+    color: rgb(200, 59, 163);
+}
+p{
+    color: rgb(227, 28, 241);
+}
+div{
+    background-color: rgb(180, 180, 180);
+    padding: 30px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: black;
+    margin: 400px;
+    border-radius: 300px;
+    img{ border-radius: 300px;}
+}
