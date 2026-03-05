@@ -12,9 +12,9 @@ div{
     background-color: rgb(167, 167, 167);
     padding: 30px;
     border-style: dotted;
-    border-width: 10px;
-    border-color: black;
+    border-width: 15px;
+    border-color: rgb(97, 206, 206);
     margin: 400px;
-    border-radius: 300px;
-    img{ border-radius: 300px;}
+    border-radius: 200px;
+    img{ border-radius: 210px;}
 }
