@@ -1,20 +1,39 @@
 body
-{background-color: rgb(100, 100, 100);
+{background-color: rgb(5, 76, 138);
 color: rgba(116, 114, 107, 0);
 font-size: 40px;}
+header {
+    background-color: rgb(201, 160, 101);
+    font-size: 30px;
+    padding: 10px;
+}
+nav {
+    background-color: darkgoldenrod;
+    color: cornflowerblue;
+    padding: 10px;
+    font-size: 20px;
+}
+
+footer{
+    background-color: darkgoldenrod;
+    padding: 10px;
+    font-size: 15px;
+    color: crimson;
+}
+
 h1{
     color: rgb(97, 218, 218);
 }
 p{
-    color: rgb(97, 218, 218);
+    color: crimson;
 }
-div{
-    background-color: rgb(167, 167, 167);
-    padding: 30px;
-    border-style: dotted;
-    border-width: 15px;
-    border-color: rgb(97, 206, 206);
-    margin: 400px;
-    border-radius: 200px;
-    img{ border-radius: 210px;}
+
+
+imgRound {
+    border-radius: 40px;
+    text-align: center;  
+}
+
+a {
+    color: crimson;
 }
